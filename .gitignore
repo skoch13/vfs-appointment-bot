@@ -32,3 +32,5 @@ app.log
 # Local Config
 config.ini
 *.ini
+
+__pycache__
